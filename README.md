@@ -1,4 +1,4 @@
-## Buger Builder App
+## React Blog App
 This is simple blog page for learning purpose
 More details about this project will be added after finishing the project
 
