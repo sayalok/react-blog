@@ -13,3 +13,9 @@
     text-decoration: none;
     color: #000;
 }
+
+.Blog a:hover,
+.Blog a:active,
+.Blog a.hover{
+    color: #fa9232;
+}
